@@ -1,0 +1,33 @@
+{
+  "students": [
+    {
+      "name": "zzaman dwipu",
+      "age": "24",
+      "roll": "5",
+      "photo": "https://pbs.twimg.com/media/FuuBgg7aUAEe-pH?format=jpg&name=4096x4096",
+      "id": 3
+    },
+    {
+      "name": "zzaman dwipu",
+      "age": "24",
+      "roll": "3489",
+      "photo": "https://pbs.twimg.com/media/EuXEkjWUUAIXi6c?format=jpg&name=large",
+      "id": 5
+    },
+    {
+      "name": "Dwiput",
+      "age": "32",
+      "roll": "0022",
+      "photo": "https://pbs.twimg.com/media/Fpb1g_vaUAELWG-?format=jpg&name=large",
+      "id": 6
+    }
+  ],
+  "staff": [
+    {
+      "name": "Abdul-halim",
+      "age": 53,
+      "skill": "Auto Driver",
+      "id": 1
+    }
+  ]
+}
